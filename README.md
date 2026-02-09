@@ -3,19 +3,18 @@ Navigasi:
 - [KPS](https://keiswara61.github.io/KPS/): Halaman KPS, berisi skrip ImageMagick dan PowerShell untuk pekerjaan saya.
 
 ## Perkenalan
-**KPS** adalah singkatan dari **K**eiswara **P**ower**S**hell. Halaman ini berisi skrip ImageMagick dan PowerShell untuk pekerjaan saya. Terbuka untuk umum; unduh, baca, jalan, dan ubah diperbolehkan. Skrip masih bersifat pribadi hingga skrip selesai masih diperuntukkan untuk pekerjaan saya.
+**KPS** adalah singkatan dari **K**eiswara **P**ower**S**hell. Halaman ini berisi skrip ImageMagick dan PowerShell untuk pekerjaan saya. Terbuka untuk umum; unduh, baca, jalan, dan ubah diperbolehkan. Skrip bersifat pribadi, diperuntukkan untuk pekerjaan saya.
 
 ## Sebelum Skrip dan Deskripsi
 Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_Policies. Sampai membaca saja sudah cukup, karena menjalankan akan perlu mengubah konfigurasi PowerShell.
 
 ## Skrip dan Deskripsi
-- [MyLogo.ps1](https://github.com/keiswara61/KPS/blob/4e9b6ae2ab8e4b89727d6f438bf6b382b01e823c/ps1/MyLogo.ps1)  
-Contoh penggunaan: `.\MyLogo.ps1 -Scale "500x500" -Name "Keiswara-Logo-GitHub.png"`
-- [MyBanner.ps1](https://github.com/keiswara61/KPS/blob/4e9b6ae2ab8e4b89727d6f438bf6b382b01e823c/ps1/MyBanner.ps1)  
-Contoh penggunaan: `.\MyBanner.ps1 -Scale "3200x410" -Name "Keiswara-Banner-Behance.png"`
-- [ToBehanceThumbnail.ps1](https://github.com/keiswara61/KPS/blob/4e9b6ae2ab8e4b89727d6f438bf6b382b01e823c/ps1/ToBehanceThumbnail.ps1)  
-Contoh penggunaan: `.\ToBehanceThumbnail.ps1 -NameInput "D:\MagicaVoxel-0.99.7.2-win64\MagicaVoxel-0.99.7.2-win64\export\snap2026-01-31-07-33-49.png" -Palettes "38 38 38, 221 221 221, 153 204 255" -NameOutput "D:\MagicaVoxel-0.99.7.2-win64\MagicaVoxel-0.99.7.2-win64\export\snap2026-01-31-07-33-49-thumbnail.png"`
+- [Keiswara-Profile.ps1](https://github.com/keiswara61/KPS/blob/5b392eff2ced54332e74840268bc75be4188c841/ps1/Keiswara-Profile.ps1)  
+Contoh penggunaan: `.\Keiswara-Profile.ps1 -Scale "400x400" -Name "Keiswara-Profile-X.png"`
+- [Keiswara-Header.ps1](https://github.com/keiswara61/KPS/blob/5b392eff2ced54332e74840268bc75be4188c841/ps1/Keiswara-Header.ps1)  
+Contoh penggunaan: `.\Keiswara-Header.ps1 -Scale "1500x500" -Name "Keiswara-Header-X.png"`
+- [To-BehanceThumbnail.ps1](https://github.com/keiswara61/KPS/blob/5b392eff2ced54332e74840268bc75be4188c841/ps1/To-BehanceThumbnail.ps1)  
+Contoh penggunaan: `.\To-BehanceThumbnail.ps1 -NameInput "D:\MagicaVoxel-0.99.7.2-win64\MagicaVoxel-0.99.7.2-win64\export\snap2026-01-31-07-33-49.png" -Palettes "38 38 38, 221 221 221, 153 204 255" -NameOutput "D:\MagicaVoxel-0.99.7.2-win64\MagicaVoxel-0.99.7.2-win64\export\snap2026-01-31-07-33-49-Thumbnail.png"`
 
 ## Update
-Pada tanggal 9 Februari 2026 Halaman KPS masih aktif dan memiliki kode terbaru.
-
+Pada tanggal 9 Februari 2026 Halaman KPS dan skrip masih aktif dan memiliki kode terbaru.
