@@ -9,7 +9,8 @@ Navigasi:
 - [MyLogo.ps1](https://github.com/keiswara61/KPS/blob/4e9b6ae2ab8e4b89727d6f438bf6b382b01e823c/ps1/MyLogo.ps1)
 - [MyBanner.ps1](https://github.com/keiswara61/KPS/blob/4e9b6ae2ab8e4b89727d6f438bf6b382b01e823c/ps1/MyBanner.ps1)
 - [ToBehanceThumbnail.ps1](https://github.com/keiswara61/KPS/blob/4e9b6ae2ab8e4b89727d6f438bf6b382b01e823c/ps1/ToBehanceThumbnail.ps1)
-> Untuk men-download masing-masing file; kunjungi link file, klik tombol "Download raw file".
+> Untuk men-download masing-masing file; kunjungi link file, lalu klik tombol "Download raw file".
 
 ## Update
 Pada tanggal 9 Februari 2026 Halaman KPS masih aktif dan memiliki kode terbaru.
+
