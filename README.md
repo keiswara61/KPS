@@ -3,7 +3,7 @@ Navigasi:
 - [KPS](https://keiswara61.github.io/KPS/): Halaman KPS, berisi skrip ImageMagick dan PowerShell untuk pekerjaan saya.
 
 ## Perkenalan
-**KPS** adalah singkatan dari **K**eiswara **P**ower**S**hell. Halaman ini berisi skrip ImageMagick dan PowerShell untuk pekerjaan saya. Terbuka untuk umum; unduh, baca, jalan, dan ubah diperbolehkan. Skrip bersifat pribadi, diperuntukkan untuk pekerjaan saya.
+**KPS** adalah singkatan dari **K**eiswara **P**ower**S**hell. Halaman ini berisi skrip ImageMagick dan PowerShell untuk pekerjaan saya. Terbuka untuk umum; unduh, baca, jalan, dan ubah diperbolehkan.
 
 ## Sebelum Skrip dan Deskripsi
 Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_Policies. Sampai membaca saja sudah cukup, karena menjalankan akan perlu mengubah konfigurasi PowerShell.
