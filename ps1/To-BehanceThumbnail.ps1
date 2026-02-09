@@ -1,0 +1,1 @@
+param ($NameInput, $Palettes, $NameOutput)
