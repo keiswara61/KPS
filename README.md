@@ -5,6 +5,9 @@ Navigasi:
 ## Perkenalan
 **KPS** adalah singkatan dari **K**eiswara **P**ower**S**hell. Halaman ini berisi skrip ImageMagick dan PowerShell untuk pekerjaan saya. Terbuka untuk umum; unduh, baca, dan ubah diperbolehkan. Skrip masih bersifat pribadi hingga skrip selesai masih diperuntukkan untuk pekerjaan saya.
 
+## Sebelum Skrip dan Deskripsi
+Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_Policies.
+
 ## Skrip dan Deskripsi
 - [MyLogo.ps1](https://github.com/keiswara61/KPS/blob/4e9b6ae2ab8e4b89727d6f438bf6b382b01e823c/ps1/MyLogo.ps1)  
 Contoh penggunaan: `.\MyLogo.ps1 -Scale "500x500" -Name "Keiswara-Logo-GitHub.png"`
