@@ -1,16 +1,12 @@
-param ([string]$Scale, [string]$Name)
+param ([string]$Scale, [int]$ZoomPercentage, [string]$OutputName)
 
-[int]$Width = ($Scale -split "x")[0]
-[int]$Height = ($Scale -split "x")[1]
-[int]$ProfileWidth = $Height
-[int]$ProfileCropWidth = $ProfileWidth - ($ProfileWidth * 48 / 100)
-[int]$ProfileCropLeft = $ProfileWidth * 24 / 100
-[int]$TextWidth = $Width - $ProfileWidth
-[string]$LeafBase = ($Name -split "\.")[0]
-[string]$Extension = ($Name -split "\.")[1]
+[int]$ScaleWidth = ($Scale -split "x")[0]
+[int]$ScaleHeight = ($Scale -split "x")[1]
+[int]$ZoomScale = $ScaleHeight * $ZoomPercentage / 100
+[string]$LeafBase = ($OutputName -split "\.")[0]
+[string]$Extension = ($OutputName -split "\.")[1]
 
-magick -size 7x7 xc:snow -fill SkyBlue4 -draw 'point 2,2 point 4,2 point 2,3 point 3,3 point 2,4 point 4,4' -scale "$($ProfileWidth)x$($Height)" "$($LeafBase)-Profile.$($Extension)"
-magick "$($LeafBase)-Profile.$($Extension)" -crop "$($ProfileCropWidth)x$($Height)+$($ProfileCropLeft)+0" "$($LeafBase)-Profile-Crop.$($Extension)"
-magick -background snow -fill SkyBlue4 -size "$($TextWidth)x$($Height)" -gravity center label:Keiswara "$($LeafBase)-Text.$($Extension)"
-magick "$($LeafBase)-Profile-Crop.$($Extension)" "$($LeafBase)-Text.$($Extension)" +append "$($LeafBase)-Append.$($Extension)"
-magick "$($LeafBase)-Append.$($Extension)" -background snow -gravity center -extent "$($Width)x$($Height)" $Name
+magick -size 5x5 xc:snow -fill skyblue4 -draw "point 1,1 point 3,1 point 1,2 point 2,2 point 1,3 point 3,3" -scale "x$($ZoomScale)" "$($LeafBase)-Draw.$($Extension)"
+magick -background snow -fill skyblue4 -size "x$($ZoomScale)" -gravity center label:Keiswara "$($LeafBase)-Text.$($Extension)"
+magick "$($LeafBase)-Draw.$($Extension)" "$($LeafBase)-Text.$($Extension)" +append "$($LeafBase)-Append.$($Extension)"
+magick "$($LeafBase)-Append.$($Extension)" -background snow -gravity center -extent $Scale $OutputName
