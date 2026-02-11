@@ -17,6 +17,4 @@ Contoh penggunaan: `.\Keiswara-Header.ps1 -Scale "1500x500" -ZoomPercentage 50 -
 Contoh penggunaan: `.\To-BehanceThumbnail.ps1 -InputName "D:\MagicaVoxel-0.99.7.2-win64\MagicaVoxel-0.99.7.2-win64\export\snap2026-01-31-07-33-49.png" -Palettes "38 38 38, 221 221 221, 153 204 255"`
 
 ## Update
-Pada tanggal 9 Februari 2026 Halaman KPS dan skrip masih aktif dan memiliki kode terbaru.
-
-
+Pada tanggal 11 Februari 2026 Halaman KPS dan skrip masih aktif dan memiliki kode terbaru.
