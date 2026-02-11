@@ -10,12 +10,13 @@ Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_P
 
 ## Skrip dan Deskripsi
 - [Keiswara-Profile.ps1](https://github.com/keiswara61/KPS/blob/5b392eff2ced54332e74840268bc75be4188c841/ps1/Keiswara-Profile.ps1)  
-Contoh penggunaan: `.\Keiswara-Profile.ps1 -Scale "400x400" -ZoomPercentage 50 -Name "Keiswara-Profile-X.png"`
+Contoh penggunaan: `.\Keiswara-Profile.ps1 -Scale "400x400" -ZoomPercentage 50 -OutputName "Keiswara-Profile-X.png"`
 - [Keiswara-Header.ps1](https://github.com/keiswara61/KPS/blob/5b392eff2ced54332e74840268bc75be4188c841/ps1/Keiswara-Header.ps1)  
-Contoh penggunaan: `.\Keiswara-Header.ps1 -Scale "1500x500" -ZoomPercentage 50 -Name "Keiswara-Header-X.png"`
+Contoh penggunaan: `.\Keiswara-Header.ps1 -Scale "1500x500" -ZoomPercentage 50 -OutputName "Keiswara-Header-X.png"`
 - [To-BehanceThumbnail.ps1](https://github.com/keiswara61/KPS/blob/5b392eff2ced54332e74840268bc75be4188c841/ps1/To-BehanceThumbnail.ps1)  
-Contoh penggunaan: `.\To-BehanceThumbnail.ps1 -NameInput "D:\MagicaVoxel-0.99.7.2-win64\MagicaVoxel-0.99.7.2-win64\export\snap2026-01-31-07-33-49.png" -Palettes "38 38 38, 221 221 221, 153 204 255" -NameOutput "D:\MagicaVoxel-0.99.7.2-win64\MagicaVoxel-0.99.7.2-win64\export\snap2026-01-31-07-33-49-Thumbnail.png"`
+Contoh penggunaan: `.\To-BehanceThumbnail.ps1 -InputName "D:\MagicaVoxel-0.99.7.2-win64\MagicaVoxel-0.99.7.2-win64\export\snap2026-01-31-07-33-49.png" -Palettes "38 38 38, 221 221 221, 153 204 255"`
 
 ## Update
 Pada tanggal 9 Februari 2026 Halaman KPS dan skrip masih aktif dan memiliki kode terbaru.
+
 
