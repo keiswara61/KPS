@@ -1,8 +1,8 @@
-param ([string]$Scale, [int]$ZoomPercentage, [string]$OutputName)
+param ([string]$Scale, [int]$HeightZoomPercentage, [string]$OutputName)
 
 [int]$ScaleWidth = ($Scale -split "x")[0]
 [int]$ScaleHeight = ($Scale -split "x")[1]
-[int]$ZoomScale = $ScaleHeight * $ZoomPercentage / 100
+[int]$ZoomScale = $ScaleHeight * $HeightZoomPercentage / 100
 [string]$LeafBase = ($OutputName -split "\.")[0]
 [string]$Extension = ($OutputName -split "\.")[1]
 
