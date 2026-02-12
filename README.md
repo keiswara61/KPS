@@ -13,7 +13,7 @@ Contoh perintah: `.\Keiswara-Header.ps1 -Scale "1500x500" -HeightZoomPercentage 
 - [To-BehanceThumbnail.ps1](ps1/To-BehanceThumbnail.ps1)  
 Contoh perintah: `.\To-BehanceThumbnail.ps1 -InputName "D:\MagicaVoxel-0.99.7.2-win64\MagicaVoxel-0.99.7.2-win64\export\snap2026-01-31-07-33-49.png" -RGBPalettes "38 38 38, 221 221 221, 153 204 255"`
 
-> Menginstal perangkat lunak ImageMagick! Membaca about_Execution_Policies! Memiliki keamanan-tingkat-rendah!
+> Perlu menginstal perangkat lunak ImageMagick! Perlu membaca about_Execution_Policies! Mengetahui bahwa memiliki keamanan-tingkat-rendah!
 
 ## Update
 Pada tanggal 13 Februari 2026 Halaman KPS dan skrip masih aktif dan memiliki kode terbaru.
