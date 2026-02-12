@@ -16,6 +16,7 @@ Contoh perintah: `.\To-BehanceThumbnail.ps1 -InputName "D:\MagicaVoxel-0.99.7.2-
 > [!IMPORTANT]
 > Perlu menginstal perangkat lunak ImageMagick.
 > Perlu membaca about_Execution_Policies.
+
 > [!WARNING]
 > Skrip memiliki keamanan-tingkat-rendah.
 
