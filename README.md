@@ -17,7 +17,7 @@ Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_P
 - Tautan: [Unduh](ps1/Keiswara-Header.ps1)
 
 ### To-BehanceThumbnail.ps1
-- Sintaks: `.\To-BehanceThumbnail.ps1 -InputName <String> -RGBPalletes <String>`
+- Sintaks: `.\To-BehanceThumbnail.ps1 -InputName <String>`
 - Tautan: [Unduh](ps1/To-BehanceThumbnail.ps1)
 
 ## Update
