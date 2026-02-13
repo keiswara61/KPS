@@ -16,9 +16,5 @@ Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_P
 - Sintaks: `.\Keiswara-Header.ps1 -Scale <String> -HeightZoomPercentage <Int> -OutputName <String>`
 - Tautan: [Unduh](ps1/Keiswara-Header.ps1)
 
-### To-BehanceThumbnail.ps1
-- Sintaks: `.\To-BehanceThumbnail.ps1 -InputName <String>`
-- Tautan: [Unduh](ps1/To-BehanceThumbnail.ps1)
-
 ## Update
 Pada tanggal 13 Februari 2026 Halaman KPS dan skrip masih aktif dan memiliki kode terbaru.
