@@ -6,4 +6,4 @@ param ([string]$InputName)
 [int]$Height = 632
 
 magick $InputName -resize "x$($Height)" "$($LeafBase)-Resize.$($Extension)"
-magick "$($LeafBase)-Resize.$($Extension)" -background snow -gravity center -extent "$($Width)x" "$($LeafBase)-Thumbnail.$($Extension)"
+magick "$($LeafBase)-Resize.$($Extension)" -background snow -gravity center -extent "$($Width)x" "$($LeafBase)-BehanceThumbnail.$($Extension)"
