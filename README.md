@@ -16,4 +16,4 @@ Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_P
 - Keiswara-Header-X.ps1: [Unduh](ps1/Keiswara-Header-X.ps1)
 
 ## Update
-Pada tanggal 13 Februari 2026 repositori **KPS** masih aktif.
+Pada tanggal 15 Februari 2026 repositori **KPS** masih aktif.
