@@ -1,0 +1,1 @@
+magick -size 5x5 xc:snow -fill skyblue4 -draw "point 1,1 point 3,1 point 1,2 point 2,2 point 1,3 point 3,3" -scale "x$(410 * 75 /100)" -background snow -fill skyblue4 -size "x$(410 * 75 /100)" -gravity center label:Keiswara +append -background snow -gravity center -extent 3200x410 "Keiswara-Header-Behance.png"
