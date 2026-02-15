@@ -1,1 +1,1 @@
-magick -size 5x5 xc:snow -fill skyblue4 -draw "point 1,1 point 3,1 point 1,2 point 2,2 point 1,3 point 3,3" -scale "x$(1000 * 50 /100)" -gravity center -extent "1000x1000" "Keiswara-Profile-Behance.png"
+magick -size 5x5 xc:snow -fill skyblue4 -draw "point 1,1 point 3,1 point 1,2 point 2,2 point 1,3 point 3,3" -scale "x$(1000 * 50 /100)" -background snow -gravity center -extent "1000x1000" "Keiswara-Profile-Behance.png"
