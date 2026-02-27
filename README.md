@@ -7,7 +7,7 @@ Navigasi:
 **KPS** adalah singkatan dari **K**eiswara **P**ower**S**hell. Halaman ini berisi skrip ImageMagick dan PowerShell untuk pekerjaan saya. Terbuka untuk umum; unduh, baca, ubah, jalan, dan unggah diperbolehkan.
 
 ## Skrip
-Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_Policies! Perangkat lunak ImageMagick diperlukan! Format **png** adalah format matang; siap unggah, format **ps1** adalah format mentah; perlu proses sampai siap unggah.
+Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_Policies! Perangkat lunak ImageMagick diperlukan! Format **png** adalah format matang; siap unggah. Format **ps1** adalah format mentah; perlu proses sampai siap unggah.
 
 ### Keiswara-Profile-Behance
 Unduh: [png](png/Keiswara-Profile-Behance.png), [ps1](ps1/Keiswara-Profile-Behance.ps1)
