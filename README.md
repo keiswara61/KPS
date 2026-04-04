@@ -9,7 +9,7 @@ Navigasi:
 ## Skrip
 Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_Policies! Perangkat lunak ImageMagick diperlukan!
 
-### Global
+### Semua
 - [Keiswara-Profile-Behance.ps1](ps1/Keiswara-Profile-Behance.ps1)
 - [Keiswara-Profile-GitHub.ps1](ps1/Keiswara-Profile-GitHub.ps1)
 - [Keiswara-Profile-X.ps1](ps1/Keiswara-Profile-X.ps1)
