@@ -1,0 +1,2 @@
+magick -size 512x512 xc:snow -fill snow -stroke firebrick4 -strokewidth 16 -draw "bezier 192,0 64,192 192,384 bezier 320,512 446,320 320,128" Draw_2-Canvas.png
+magick Draw_2-Canvas.png -background snow -gravity center -extent 808x632 Draw_2-Thumbnail.png

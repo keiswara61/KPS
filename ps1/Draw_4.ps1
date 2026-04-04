@@ -1,0 +1,2 @@
+magick -size 512x512 xc:snow -fill snow -stroke firebrick4 -strokewidth 16 -draw "polyline 0,192 192,192 256,320 polyline 512,320 320,320 256,192" Draw_4-Canvas.png
+magick Draw_4-Canvas.png -background snow -gravity center -extent 808x632 Draw_4-Thumbnail.png
