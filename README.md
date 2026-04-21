@@ -21,6 +21,8 @@ Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_P
 - [Draw_2.ps1](ps1/Draw_2.ps1)
 - [Draw_3.ps1](ps1/Draw_3.ps1)
 - [Draw_4.ps1](ps1/Draw_4.ps1)
+- [Draw_5.ps1](ps1/Draw_5.ps1)
+- [Draw_6.ps1](ps1/Draw_6.ps1)
 
 ## Update
-Pada tanggal 4 April 2026 repositori **KPS** masih aktif.
+Pada tanggal 21 April 2026 repositori **KPS** masih aktif.
