@@ -1,0 +1,2 @@
+magick -size 512x512 xc:snow -fill snow -stroke firebrick4 -strokewidth 16 -draw "line 0,0 512,512 stroke snow circle 256,256 352,352 stroke firebrick4 circle 256,256 320,320" Draw_6-Canvas.png
+magick Draw_6-Canvas.png -background snow -gravity center -extent 808x632 Draw_6-Thumbnail.png
