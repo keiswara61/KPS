@@ -4,7 +4,7 @@ Navigasi:
 - [GitHub](https://github.com/keiswara61/): Halaman GitHub Keiswara.
 
 ## Perkenalan
-**KPS** adalah singkatan dari **K**eiswara **P**ower**S**hell. Halaman ini berisi skrip PowerShell untuk pekerjaan saya. Terbuka untuk umum; unduh, baca, ubah, dan jalan diperbolehkan.
+**KPS** adalah singkatan dari **K**eiswara **P**ower**S**hell. Halaman ini berisi skrip PowerShell untuk pekerjaan saya. Terbuka untuk umum; unduh, baca, jalan, dan ubah diperbolehkan.
 
 ## Skrip
 Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_Policies! Perangkat lunak ImageMagick diperlukan!
@@ -25,4 +25,4 @@ Menjalankan skrip PowerShell memiliki sensitivitas, mohon baca about_Execution_P
 - [Draw_6.ps1](ps1/Draw_6.ps1)
 
 ## Update
-Pada tanggal 28 April 2026 repositori **KPS** masih aktif.
+Pada tanggal 30 April 2026 repositori **KPS** masih aktif.
